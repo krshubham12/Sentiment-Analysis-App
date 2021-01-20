@@ -1,2 +1,3 @@
 # Sentiment-Analysis-App
-![Sentiment Aanalysis app demo](appdemo.gif)
+
+<img src="appdemo.gif" width=500>
